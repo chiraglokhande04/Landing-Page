@@ -1,0 +1,176 @@
+.box3{
+   height: 100px;
+   width: 1250px;
+   background-color: rgba(128, 128, 128, 0.603);
+   border-radius: 30px;
+   position: relative;
+   top: 35px;
+   left: 10px;
+}
+
+
+.ship{
+    height: 100px;
+    width: 150px;
+    position: relative;
+    left: 150px;
+    color: black;
+}
+
+.ship h6{
+    position: absolute;
+    bottom: 0px ;
+    left: 15px;
+}
+
+.ship:hover{
+    color: rgba(255, 255, 255, 0.432);
+
+}
+
+/*
+.ship img:hover{
+    height: 75px;
+    width: 75px;
+}
+*/
+#tr{
+
+    position: absolute;
+    left: 40px;
+}
+
+.money{
+    height: 100px;
+    width: 150px;
+    position: relative;
+    left: 400px;
+    color: black;
+    bottom: 100px;
+}
+#mon{
+    height: 50px;
+    opacity: 0.5;    
+    position: absolute;
+    left: 40px;
+    top: 10px;
+}
+
+.money h6{
+    position: absolute;
+    bottom: 0px;
+}
+
+.money h6:hover{
+    color: rgba(255, 255, 255, 0.432);
+
+    
+}
+
+.quality{
+    height: 100px;
+    width: 150px;
+    color: black;
+    position: relative;
+    bottom: 200px;
+    left: 680px;
+
+}
+.quality img{
+    opacity: 0.5;
+    position: absolute;
+    left: 45px;
+    bottom: 40px;
+}
+
+.quality h6{
+    position: absolute;
+    bottom: 0px;
+    left: 25px;
+}
+
+.quality h6:hover{
+   color: rgba(255, 255, 255, 0.432);
+
+}
+
+.safe{
+    height: 100px;
+    width: 150px;
+    color: black;
+    position: relative;
+    bottom: 300px;
+    left: 950px;
+    
+    
+    
+
+}
+
+.safe img{
+    opacity: 0.5;
+    position: absolute;
+    left: 45px;
+    bottom: 40px;
+
+}
+
+.safe h6:hover{
+    color: rgba(255, 255, 255, 0.432);
+
+
+}
+
+.safe h6{
+    position: absolute;
+    bottom: 0px;
+    left: 15px;
+
+}
+
+.about{
+    
+    height: 400px;
+    width: 500px;
+    position: relative;
+    top: 30px;
+    left: 90px; 
+}
+
+.about h1{
+    
+
+     font-size: 300%;
+     font-weight: bolder;
+     
+}
+
+#small{
+    margin-right: 190px;
+    position: relative;
+    bottom: 30px;
+}
+
+#big{
+    margin-right: 100px;
+    position: relative;
+    bottom: 25px;
+
+}
+
+
+.box4{
+    height: 400px;
+    width: 500px;
+    background-color: red;
+    border-radius: 50px;
+    position: relative;
+    bottom: 380px;
+    left: 650px;
+
+
+}
+
+.box4 img{
+    border-radius: 30px;
+}

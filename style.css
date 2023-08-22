@@ -1,0 +1,133 @@
+body{
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white; 
+    height: 100%;
+    width: 100%;  
+}
+nav{
+    position: absolute;
+    top: 10px;
+    left: 0px;
+}
+#left a{
+  color: white;
+  text-decoration: none;
+  margin: 30px;
+  margin-left: 10px;
+}
+#left a:hover{
+    color: aqua;
+}
+
+#middle h2{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    position : absolute;
+    top: 0px;
+    left: 600px;
+    bottom: 1000px;
+}
+
+#right{
+   position: absolute;
+   top: 0px;
+   left: 980px;
+}
+
+#right input{
+    border-radius: 30px;
+    padding: 8px;
+}
+#right input:hover{
+    height: 50px;
+    width: 200px;
+    
+}
+
+#right a{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: 210px;
+    bottom: 32px;
+}
+
+.box1{
+    background-color: rgb(75, 69, 69);
+    height: 400px;
+    width: 450px; 
+    border-radius: 20px;
+    margin-top: 70px;
+    margin-left: 30px;
+    padding-top: 40px;
+    padding-left: 60px;
+}
+
+.box1 h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    font-weight: bolder;
+    position: relative ;
+    bottom: 20px;
+}
+
+.box1 h3{
+    font-size: 200%;
+    font-family:inherit;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.box1 h6{
+    margin-right: 100px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 30px;
+}
+
+
+#Explore{
+    height: 40px;
+    width: 120px;
+    background-color: burlywood;
+    border-radius: 35px;
+}
+
+#Explore a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+
+#Explore a:hover{
+    color: red;
+}
+.box1:hover{
+    box-shadow:5px 5px 5px 5px rgba(255, 255, 255, 0.425);
+}
+
+.box2{
+    height: 450px;
+    width: 550px;
+    position: absolute;
+    top: 70px;
+    left: 650px;
+   
+} 
+
+.box2 img{
+    height: 450px;
+    width: 550px;
+    border-radius: 30px;
+    
+    
+}
+
+/*
+.box2 img:hover{
+    height:470px ;
+    width: 570px ;
+} */
+
+
